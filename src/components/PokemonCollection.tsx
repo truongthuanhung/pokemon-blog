@@ -1,5 +1,4 @@
 import React from "react";
-import { Pokemon } from "../interface";
 import PokemonList from "./PokemonList";
 import { Detail, PokemonDetail } from "../interface";
 const PokemonCollection: React.FC<{
